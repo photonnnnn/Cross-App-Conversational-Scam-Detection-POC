@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">scampoc</string>
+    <string name="accessibility_settings">Accessibility Settings</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="accessibility_description">This service reads screen content for logging.</string>
+    <string name="log_format">[%1$s] %2$s</string>
+</resources>
